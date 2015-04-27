@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/elevenfifty/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-1e2396cf2f43978f17c7e23aefe3fe8501ad06dd.jar" />
+    </item>
+    <item
+        jar="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/pre-dexed/debug/classes-c82f1be7720ce7b2cc36af01720fb6c9b9c5bc19.jar" />
+    </item>
+    <item
+        jar="/Users/elevenfifty/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.1.0/38e3b05f2546c0b7956144c3e812867b751dfa91/firebase-client-jvm-2.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="38e3b05f2546c0b7956144c3e812867b751dfa91">
+        <dex dex="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.1.0-a7292570562ce3703db5ed9a7628babd0b3d6575.jar" />
+    </item>
+    <item
+        jar="/Users/elevenfifty/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2-0afb86559ca56b843f550f719e03edf465cac96b.jar" />
+    </item>
+    <item
+        jar="/Users/elevenfifty/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-8f7d8675dc54ff02a3fc0d96d1c8c5bebe26fae4.jar" />
+    </item>
+    <item
+        jar="/Users/elevenfifty/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.1.0/d0032e1f7a1fb7aa779e986d719e9c1dc32ba02b/firebase-client-android-2.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d0032e1f7a1fb7aa779e986d719e9c1dc32ba02b">
+        <dex dex="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.1.0-b85031d1c9970e84f9ba934e8d613e3d252d4d53.jar" />
+    </item>
+    <item
+        jar="/Users/elevenfifty/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.10/ddce2c65136c1de8000f8932d8b7ab16d5d336b9/tubesock-0.0.10.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ddce2c65136c1de8000f8932d8b7ab16d5d336b9">
+        <dex dex="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/pre-dexed/debug/tubesock-0.0.10-7174983a23f94973b2b3e0675c44977e84452cfd.jar" />
+    </item>
+    <item
+        jar="/Users/elevenfifty/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2-bf84872c5514130ebcab46c5e00d86f1ada2133f.jar" />
+    </item>
+    <item
+        jar="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-b33b0d9906a8c63ddaf70742ccd81436844892ca.jar" />
+    </item>
+    <item
+        jar="/Users/elevenfifty/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/elevenfifty/Downloads/4. ElevenChat/11. ElevenChat - Tap to show image, reverse message list order/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2-0d12379ed78654d954fe80b75a55c15a0a983db3.jar" />
+    </item>
+
+</items>
